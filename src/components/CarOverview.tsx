@@ -11,7 +11,7 @@ const CarOverview = () => {
     year: 2023,
     mileage: 12500,
     price: 950000,
-    location: 'Mumbai, Maharashtra',
+    location: 'Delhi',
     fuelType: 'Petrol',
     transmission: 'CVT Automatic',
     rating: 4.8,
