@@ -14,8 +14,8 @@ const CarOverview = () => {
     location: 'Delhi',
     fuelType: 'Petrol',
     transmission: 'CVT Automatic',
-    rating: 4.8,
-    reviews: 156,
+    rating: 4.9,
+    reviews: 2000,
     condition: 'Excellent',
     owners: 1
   };
