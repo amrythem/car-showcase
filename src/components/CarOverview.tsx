@@ -6,8 +6,8 @@ import { Button } from '@/components/ui/button';
 
 const CarOverview = () => {
   const carDetails = {
-    model: 'Honda Civic',
-    variant: 'ZX CVT',
+    model: 'Maruti Suzuki Grand Vitara',
+    variant: 'Hybrid Model',
     year: 2023,
     mileage: 12500,
     price: 950000,
