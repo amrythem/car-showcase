@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { ChevronLeft, ChevronRight, Expand } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import carMain from '@/assets/car-main.jpg';
-import carInterior from '@/assets/car-interior.jpg';
-import carRear from '@/assets/car-rear.jpg';
-import carFront from '@/assets/car-front.jpg';
+import carMain from '@/assets/grandvitaramain.jpg';
+import carInterior from '@/assets/grandvitarainterior.jpeg';
+import carRear from '@/assets/grandvitararear.jpg';
+import carFront from '@/assets/grandvitarasunroof.jpg';
 
 const carImages = [
   { src: carMain, alt: 'Honda Civic - Side View' },

@@ -110,7 +110,7 @@ const PriceCalculator = () => {
               </>
             )}
           </Button>
-          
+            
           <Button
             variant="outline"
             onClick={resetCalculator}
