@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { RotateCw, X, MousePointer2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import carMainImage from '@/assets/car-main.jpg';
-import carFrontImage from '@/assets/car-front.jpg';
-import carRearImage from '@/assets/car-rear.jpg';
-import carInteriorImage from '@/assets/car-interior.jpg';
+import carMainImage from '@/assets/grandvitaramain.jpg';
+import carInteriorImage from '@/assets/grandvitarainterior.jpeg';
+import carRearImage from '@/assets/grandvitararear.jpg';
+import carFrontImage from '@/assets/grandvitarasunroof.jpg';
+
 
 const View360Button = () => {
   const [is360ViewOpen, setIs360ViewOpen] = useState(false);
