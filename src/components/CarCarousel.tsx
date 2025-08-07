@@ -7,10 +7,10 @@ import carRear from '@/assets/grandvitararear.jpg';
 import carFront from '@/assets/grandvitarasunroof.jpg';
 
 const carImages = [
-  { src: carMain, alt: 'Honda Civic - Side View' },
-  { src: carFront, alt: 'Honda Civic - Front View' },
-  { src: carInterior, alt: 'Honda Civic - Interior' },
-  { src: carRear, alt: 'Honda Civic - Rear View' },
+  { src: carMain, alt: 'Grand Vitara - Side View' },
+  { src: carFront, alt: 'Grand Vitara - Front View' },
+  { src: carInterior, alt: 'Grand Vitara - Interior' },
+  { src: carRear, alt: 'Grand vitara - Rear View' },
 ];
 
 const CarCarousel = () => {
