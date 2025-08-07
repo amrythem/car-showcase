@@ -8,7 +8,7 @@ const CarOverview = () => {
   const carDetails = {
     model: 'Maruti Suzuki Grand Vitara',
     variant: 'Hybrid Model',
-    year: 2023,
+    year: 2025,
     mileage: 12500,
     price: 950000,
     location: 'Delhi',
